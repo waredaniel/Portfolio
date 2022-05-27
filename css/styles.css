@@ -37,6 +37,7 @@
 .card{
   border: solid black;
   border-width: 1px;
+  margin-top: 10px;
   margin-bottom: 20px;
   background-color: rgb(225, 233, 239);
 }
@@ -44,4 +45,9 @@
 h4 {
   text-align: center;
   font-weight: bold;
+}
+video {
+  display: block;
+  float: right;
+  margin-top: 10px;
 }
