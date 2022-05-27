@@ -2,6 +2,9 @@
   margin: auto;
   height: auto;
   width: 20%;
+  border: solid black;
+  border-width: 1px;
+  padding: 2px;
 }
 
 .topstuff {
@@ -11,11 +14,21 @@
   border-width: 2px;
   box-sizing: border-box;
   padding: 5px;
-  background-color: slategrey;
+  background-color: rgb(201, 221, 236);
   font-weight: bold;
   margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.mainstuff{
+  border: solid black;
+  border-width: 2px;
+  box-sizing: border-box;
+  margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 5px;
+  background-color: rgb(201, 221, 236);
+}
 .name {
   font-weight: bold;
   color: blue
