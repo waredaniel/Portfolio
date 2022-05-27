@@ -16,7 +16,7 @@ HTML5, CSS, Bootstrap
 Navigate to URL in web browser
 
 ## GitHub Site
-https://waredaniel.github.io/portfolio
+https://waredaniel.github.io/Portfolio
 
 ## Known Bugs
 None
