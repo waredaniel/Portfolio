@@ -1,3 +1,22 @@
 .portrait {
+  margin: auto;
+  height: auto;
   width: 20%;
+}
+
+.topstuff {
+  text-align: center;
+  display: block;
+  border: solid black;
+  border-width: 2px;
+  box-sizing: border-box;
+  padding: 5px;
+  background-color: slategrey;
+  font-weight: bold;
+  margin: auto;
+}
+
+.name {
+  font-weight: bold;
+  color: blue
 }
